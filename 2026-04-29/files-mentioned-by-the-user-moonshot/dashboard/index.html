@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Moonshot Luggage Intelligence Dashboard</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar">
+      <div class="brand-mark">
+        <span>MS</span>
+        <div>
+          <strong>Moonshot</strong>
+          <small>Luggage CI</small>
+        </div>
+      </div>
+      <nav>
+        <a class="active" href="#overview">Overview</a>
+        <a href="#comparison">Comparison</a>
+        <a href="#drilldown">Product Drilldown</a>
+        <a href="#insights">Agent Insights</a>
+      </nav>
+      <div class="method-note">
+        <strong>Method</strong>
+        <p>Brand sentiment combines review polarity, aspect mentions, and recurring theme frequency. Value score adjusts sentiment by price band.</p>
+      </div>
+    </aside>
+
+    <main>
+      <section id="overview" class="topbar">
+        <div>
+          <p class="eyebrow">Amazon India luggage intelligence</p>
+          <h1>Competitive dashboard for luggage brands</h1>
+        </div>
+        <div class="status-pill">Cleaned dataset loaded</div>
+      </section>
+
+      <section class="filters" aria-label="Dashboard filters">
+        <label>
+          Brand
+          <select id="brandFilter" multiple></select>
+        </label>
+        <label>
+          Category
+          <select id="categoryFilter">
+            <option value="all">All categories</option>
+          </select>
+        </label>
+        <label>
+          Sentiment
+          <select id="sentimentFilter">
+            <option value="all">All sentiment</option>
+            <option value="Positive">Positive</option>
+            <option value="Mixed">Mixed</option>
+            <option value="Negative">Negative</option>
+          </select>
+        </label>
+        <label>
+          Minimum rating
+          <input id="ratingFilter" type="range" min="3.5" max="4.8" step="0.1" value="3.5" />
+          <span id="ratingValue">3.5+</span>
+        </label>
+        <label>
+          Price ceiling
+          <input id="priceFilter" type="range" min="1500" max="7000" step="100" value="7000" />
+          <span id="priceValue">INR 7,000</span>
+        </label>
+      </section>
+
+      <section class="kpi-grid" aria-label="Overview metrics">
+        <article><span>Total brands</span><strong id="kpiBrands">0</strong></article>
+        <article><span>Products analyzed</span><strong id="kpiProducts">0</strong></article>
+        <article><span>Sampled reviews</span><strong id="kpiReviews">0</strong></article>
+        <article><span>Average sentiment</span><strong id="kpiSentiment">0.00</strong></article>
+        <article><span>Average price</span><strong id="kpiPrice">INR 0</strong></article>
+        <article><span>Average discount</span><strong id="kpiDiscount">0%</strong></article>
+      </section>
+
+      <section class="grid two">
+        <article class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Positioning</p>
+              <h2>Price vs sentiment</h2>
+            </div>
+          </div>
+          <div id="scatterChart" class="scatter"></div>
+        </article>
+        <article class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Discounting</p>
+              <h2>Average discount by brand</h2>
+            </div>
+          </div>
+          <div id="discountBars" class="bars"></div>
+        </article>
+      </section>
+
+      <section id="comparison" class="panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">Benchmark</p>
+            <h2>Brand comparison</h2>
+          </div>
+          <button id="resetFilters" type="button">Reset filters</button>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th data-sort="brand">Brand</th>
+                <th data-sort="avg_price">Avg price</th>
+                <th data-sort="avg_discount">Discount</th>
+                <th data-sort="avg_rating">Rating</th>
+                <th data-sort="sampled_reviews">Reviews</th>
+                <th data-sort="sentiment_score">Sentiment</th>
+                <th data-sort="value_for_money_score">Value score</th>
+                <th>Top pros / cons</th>
+              </tr>
+            </thead>
+            <tbody id="brandTable"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section id="drilldown" class="grid drill">
+        <article class="panel product-list-panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Products</p>
+              <h2>Sortable drilldown</h2>
+            </div>
+            <input id="searchBox" type="search" placeholder="Search product or brand" />
+          </div>
+          <div id="productList" class="product-list"></div>
+        </article>
+        <article class="panel detail-panel">
+          <div id="productDetail" class="product-detail"></div>
+        </article>
+      </section>
+
+      <section id="insights" class="panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">Agent layer</p>
+            <h2>Non-obvious conclusions</h2>
+          </div>
+        </div>
+        <div id="insightList" class="insights"></div>
+      </section>
+    </main>
+
+    <script src="./data/dashboard_data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

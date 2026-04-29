@@ -1,0 +1,361 @@
+review_id,product_id,brand,rating,review_title,review_text,sentiment_score,primary_aspect,is_verified_purchase
+R50001,P1001,Safari,4,Safari review 1,The price feels justified because the suitcase looks better than expected.,0.394,material,yes
+R50002,P1001,Safari,4,Safari review 2,It feels lightweight and easy to carry through stations and airports.,0.461,design,no
+R50003,P1001,Safari,5,Safari review 3,The price feels justified because the suitcase looks better than expected.,0.767,material,yes
+R50004,P1001,Safari,3,Safari review 4,"Capacity is good for a short family trip and the layout is practical. However, the zipper feels stiff near the corners and needs careful handling.",-0.106,durability,yes
+R50005,P1001,Safari,3,Safari review 5,"Capacity is good for a short family trip and the layout is practical. However, the zipper feels stiff near the corners and needs careful handling.",-0.145,durability,yes
+R50006,P1001,Safari,3,Safari review 6,The zipper feels stiff near the corners and needs careful handling.,-0.074,material,yes
+R50007,P1002,Safari,4,Safari review 1,The price feels justified because the suitcase looks better than expected.,0.486,wheels,yes
+R50008,P1002,Safari,4,Safari review 2,It feels lightweight and easy to carry through stations and airports.,0.424,size,yes
+R50009,P1002,Safari,5,Safari review 3,Capacity is good for a short family trip and the layout is practical.,0.734,value,yes
+R50010,P1002,Safari,3,Safari review 4,"It feels lightweight and easy to carry through stations and airports. However, the body picks up scuff marks after one trip.",-0.134,handle,yes
+R50011,P1002,Safari,4,Safari review 5,"The price feels justified because the suitcase looks better than expected. However, the body picks up scuff marks after one trip.",0.177,zipper,no
+R50012,P1002,Safari,2,Safari review 6,The handle wobbles slightly when the suitcase is heavy.,-0.526,zipper,yes
+R50013,P1003,Safari,5,Safari review 1,The wheels move smoothly even when the bag is fully packed.,0.739,design,yes
+R50014,P1003,Safari,5,Safari review 2,Capacity is good for a short family trip and the layout is practical.,0.844,size,yes
+R50015,P1003,Safari,5,Safari review 3,The price feels justified because the suitcase looks better than expected.,0.715,size,no
+R50016,P1003,Safari,3,Safari review 4,"It feels lightweight and easy to carry through stations and airports. However, the zipper feels stiff near the corners and needs careful handling.",-0.065,durability,yes
+R50017,P1003,Safari,4,Safari review 5,"The wheels move smoothly even when the bag is fully packed. However, the body picks up scuff marks after one trip.",0.249,zipper,yes
+R50018,P1003,Safari,2,Safari review 6,The body picks up scuff marks after one trip.,-0.513,zipper,yes
+R50019,P1004,Safari,4,Safari review 1,The price feels justified because the suitcase looks better than expected.,0.515,value,yes
+R50020,P1004,Safari,5,Safari review 2,The price feels justified because the suitcase looks better than expected.,0.786,design,yes
+R50021,P1004,Safari,5,Safari review 3,It feels lightweight and easy to carry through stations and airports.,0.703,size,yes
+R50022,P1004,Safari,3,Safari review 4,"Capacity is good for a short family trip and the layout is practical. However, the zipper feels stiff near the corners and needs careful handling.",-0.02,handle,yes
+R50023,P1004,Safari,4,Safari review 5,"It feels lightweight and easy to carry through stations and airports. However, the body picks up scuff marks after one trip.",0.296,zipper,yes
+R50024,P1004,Safari,3,Safari review 6,The zipper feels stiff near the corners and needs careful handling.,-0.009,material,yes
+R50025,P1005,Safari,5,Safari review 1,The price feels justified because the suitcase looks better than expected.,0.859,size,yes
+R50026,P1005,Safari,5,Safari review 2,The wheels move smoothly even when the bag is fully packed.,0.74,wheels,no
+R50027,P1005,Safari,5,Safari review 3,It feels lightweight and easy to carry through stations and airports.,0.794,design,no
+R50028,P1005,Safari,3,Safari review 4,"It feels lightweight and easy to carry through stations and airports. However, the zipper feels stiff near the corners and needs careful handling.",-0.022,zipper,no
+R50029,P1005,Safari,4,Safari review 5,"The price feels justified because the suitcase looks better than expected. However, the handle wobbles slightly when the suitcase is heavy.",0.226,handle,yes
+R50030,P1005,Safari,2,Safari review 6,The zipper feels stiff near the corners and needs careful handling.,-0.53,material,no
+R50031,P1006,Safari,5,Safari review 1,It feels lightweight and easy to carry through stations and airports.,0.828,value,no
+R50032,P1006,Safari,5,Safari review 2,The price feels justified because the suitcase looks better than expected.,0.722,size,yes
+R50033,P1006,Safari,4,Safari review 3,The wheels move smoothly even when the bag is fully packed.,0.509,size,yes
+R50034,P1006,Safari,3,Safari review 4,"It feels lightweight and easy to carry through stations and airports. However, the zipper feels stiff near the corners and needs careful handling.",-0.012,zipper,yes
+R50035,P1006,Safari,4,Safari review 5,"The price feels justified because the suitcase looks better than expected. However, the handle wobbles slightly when the suitcase is heavy.",0.174,durability,yes
+R50036,P1006,Safari,2,Safari review 6,The zipper feels stiff near the corners and needs careful handling.,-0.402,zipper,yes
+R50037,P1007,Safari,4,Safari review 1,The wheels move smoothly even when the bag is fully packed.,0.415,value,no
+R50038,P1007,Safari,5,Safari review 2,It feels lightweight and easy to carry through stations and airports.,0.708,wheels,yes
+R50039,P1007,Safari,5,Safari review 3,The price feels justified because the suitcase looks better than expected.,0.836,wheels,no
+R50040,P1007,Safari,3,Safari review 4,"It feels lightweight and easy to carry through stations and airports. However, the body picks up scuff marks after one trip.",-0.141,durability,yes
+R50041,P1007,Safari,3,Safari review 5,"The price feels justified because the suitcase looks better than expected. However, the body picks up scuff marks after one trip.",-0.093,zipper,yes
+R50042,P1007,Safari,1,Safari review 6,The handle wobbles slightly when the suitcase is heavy.,-0.862,durability,yes
+R50043,P1008,Safari,5,Safari review 1,It feels lightweight and easy to carry through stations and airports.,0.859,material,no
+R50044,P1008,Safari,5,Safari review 2,The price feels justified because the suitcase looks better than expected.,0.849,design,yes
+R50045,P1008,Safari,5,Safari review 3,The price feels justified because the suitcase looks better than expected.,0.77,design,yes
+R50046,P1008,Safari,3,Safari review 4,"Capacity is good for a short family trip and the layout is practical. However, the body picks up scuff marks after one trip.",-0.011,material,no
+R50047,P1008,Safari,3,Safari review 5,"The price feels justified because the suitcase looks better than expected. However, the handle wobbles slightly when the suitcase is heavy.",-0.041,zipper,yes
+R50048,P1008,Safari,1,Safari review 6,The body picks up scuff marks after one trip.,-0.867,durability,yes
+R50049,P1009,Safari,5,Safari review 1,It feels lightweight and easy to carry through stations and airports.,0.707,value,yes
+R50050,P1009,Safari,5,Safari review 2,The price feels justified because the suitcase looks better than expected.,0.819,design,yes
+R50051,P1009,Safari,4,Safari review 3,The wheels move smoothly even when the bag is fully packed.,0.392,wheels,yes
+R50052,P1009,Safari,3,Safari review 4,"The price feels justified because the suitcase looks better than expected. However, the body picks up scuff marks after one trip.",-0.067,material,yes
+R50053,P1009,Safari,4,Safari review 5,"The price feels justified because the suitcase looks better than expected. However, the zipper feels stiff near the corners and needs careful handling.",0.284,material,yes
+R50054,P1009,Safari,1,Safari review 6,The handle wobbles slightly when the suitcase is heavy.,-0.793,handle,yes
+R50055,P1010,Safari,4,Safari review 1,The price feels justified because the suitcase looks better than expected.,0.384,size,yes
+R50056,P1010,Safari,5,Safari review 2,Capacity is good for a short family trip and the layout is practical.,0.743,design,yes
+R50057,P1010,Safari,4,Safari review 3,It feels lightweight and easy to carry through stations and airports.,0.416,size,yes
+R50058,P1010,Safari,4,Safari review 4,"The wheels move smoothly even when the bag is fully packed. However, the handle wobbles slightly when the suitcase is heavy.",0.176,handle,yes
+R50059,P1010,Safari,4,Safari review 5,"The wheels move smoothly even when the bag is fully packed. However, the handle wobbles slightly when the suitcase is heavy.",0.295,zipper,yes
+R50060,P1010,Safari,3,Safari review 6,The body picks up scuff marks after one trip.,-0.01,durability,yes
+R50061,P1011,Skybags,5,Skybags review 1,The design looks modern and stands out without looking flashy.,0.755,size,yes
+R50062,P1011,Skybags,5,Skybags review 2,The compartments help keep clothes and accessories organised.,0.762,wheels,yes
+R50063,P1011,Skybags,5,Skybags review 3,It feels lightweight and easy to carry through stations and airports.,0.7,size,yes
+R50064,P1011,Skybags,4,Skybags review 4,"The wheels move smoothly even when the bag is fully packed. However, zip quality could be better for frequent travellers.",0.292,zipper,yes
+R50065,P1011,Skybags,3,Skybags review 5,"It feels lightweight and easy to carry through stations and airports. However, the usable size feels smaller than the photos suggest.",-0.079,material,yes
+R50066,P1011,Skybags,3,Skybags review 6,Zip quality could be better for frequent travellers.,-0.071,durability,yes
+R50067,P1012,Skybags,5,Skybags review 1,It feels lightweight and easy to carry through stations and airports.,0.749,wheels,yes
+R50068,P1012,Skybags,5,Skybags review 2,It feels lightweight and easy to carry through stations and airports.,0.808,size,yes
+R50069,P1012,Skybags,4,Skybags review 3,The wheels move smoothly even when the bag is fully packed.,0.462,value,yes
+R50070,P1012,Skybags,3,Skybags review 4,"It feels lightweight and easy to carry through stations and airports. However, the outer shell scratches more easily than expected.",-0.124,material,yes
+R50071,P1012,Skybags,3,Skybags review 5,"The design looks modern and stands out without looking flashy. However, the outer shell scratches more easily than expected.",-0.062,durability,yes
+R50072,P1012,Skybags,3,Skybags review 6,Zip quality could be better for frequent travellers.,-0.045,handle,yes
+R50073,P1013,Skybags,4,Skybags review 1,The compartments help keep clothes and accessories organised.,0.454,material,yes
+R50074,P1013,Skybags,4,Skybags review 2,The design looks modern and stands out without looking flashy.,0.487,size,yes
+R50075,P1013,Skybags,5,Skybags review 3,It feels lightweight and easy to carry through stations and airports.,0.768,material,yes
+R50076,P1013,Skybags,4,Skybags review 4,"The compartments help keep clothes and accessories organised. However, the outer shell scratches more easily than expected.",0.181,durability,yes
+R50077,P1013,Skybags,4,Skybags review 5,"It feels lightweight and easy to carry through stations and airports. However, the usable size feels smaller than the photos suggest.",0.184,handle,no
+R50078,P1013,Skybags,2,Skybags review 6,The outer shell scratches more easily than expected.,-0.509,durability,yes
+R50079,P1014,Skybags,5,Skybags review 1,The design looks modern and stands out without looking flashy.,0.787,value,yes
+R50080,P1014,Skybags,5,Skybags review 2,The wheels move smoothly even when the bag is fully packed.,0.851,material,no
+R50081,P1014,Skybags,4,Skybags review 3,The compartments help keep clothes and accessories organised.,0.428,value,yes
+R50082,P1014,Skybags,3,Skybags review 4,"The compartments help keep clothes and accessories organised. However, the usable size feels smaller than the photos suggest.",-0.125,durability,yes
+R50083,P1014,Skybags,4,Skybags review 5,"The design looks modern and stands out without looking flashy. However, zip quality could be better for frequent travellers.",0.256,durability,yes
+R50084,P1014,Skybags,3,Skybags review 6,The usable size feels smaller than the photos suggest.,-0.015,zipper,yes
+R50085,P1015,Skybags,5,Skybags review 1,The wheels move smoothly even when the bag is fully packed.,0.752,size,yes
+R50086,P1015,Skybags,5,Skybags review 2,It feels lightweight and easy to carry through stations and airports.,0.74,size,no
+R50087,P1015,Skybags,5,Skybags review 3,The design looks modern and stands out without looking flashy.,0.86,wheels,yes
+R50088,P1015,Skybags,3,Skybags review 4,"The design looks modern and stands out without looking flashy. However, the usable size feels smaller than the photos suggest.",-0.008,zipper,yes
+R50089,P1015,Skybags,3,Skybags review 5,"The design looks modern and stands out without looking flashy. However, the usable size feels smaller than the photos suggest.",-0.14,handle,yes
+R50090,P1015,Skybags,3,Skybags review 6,Zip quality could be better for frequent travellers.,-0.037,durability,yes
+R50091,P1016,Skybags,5,Skybags review 1,It feels lightweight and easy to carry through stations and airports.,0.849,wheels,yes
+R50092,P1016,Skybags,5,Skybags review 2,The compartments help keep clothes and accessories organised.,0.712,design,yes
+R50093,P1016,Skybags,5,Skybags review 3,The wheels move smoothly even when the bag is fully packed.,0.836,value,yes
+R50094,P1016,Skybags,3,Skybags review 4,"The design looks modern and stands out without looking flashy. However, the usable size feels smaller than the photos suggest.",-0.075,material,yes
+R50095,P1016,Skybags,4,Skybags review 5,"The design looks modern and stands out without looking flashy. However, the usable size feels smaller than the photos suggest.",0.276,zipper,yes
+R50096,P1016,Skybags,2,Skybags review 6,Zip quality could be better for frequent travellers.,-0.447,material,yes
+R50097,P1017,Skybags,5,Skybags review 1,The compartments help keep clothes and accessories organised.,0.743,material,yes
+R50098,P1017,Skybags,5,Skybags review 2,The design looks modern and stands out without looking flashy.,0.82,design,yes
+R50099,P1017,Skybags,4,Skybags review 3,The compartments help keep clothes and accessories organised.,0.516,size,yes
+R50100,P1017,Skybags,4,Skybags review 4,"The wheels move smoothly even when the bag is fully packed. However, zip quality could be better for frequent travellers.",0.185,material,yes
+R50101,P1017,Skybags,3,Skybags review 5,"It feels lightweight and easy to carry through stations and airports. However, the usable size feels smaller than the photos suggest.",-0.146,handle,yes
+R50102,P1017,Skybags,1,Skybags review 6,The usable size feels smaller than the photos suggest.,-0.797,material,yes
+R50103,P1018,Skybags,5,Skybags review 1,It feels lightweight and easy to carry through stations and airports.,0.776,value,yes
+R50104,P1018,Skybags,5,Skybags review 2,The compartments help keep clothes and accessories organised.,0.756,value,yes
+R50105,P1018,Skybags,4,Skybags review 3,It feels lightweight and easy to carry through stations and airports.,0.495,wheels,yes
+R50106,P1018,Skybags,3,Skybags review 4,"The wheels move smoothly even when the bag is fully packed. However, the outer shell scratches more easily than expected.",-0.116,durability,yes
+R50107,P1018,Skybags,3,Skybags review 5,"It feels lightweight and easy to carry through stations and airports. However, the outer shell scratches more easily than expected.",-0.124,material,yes
+R50108,P1018,Skybags,3,Skybags review 6,The usable size feels smaller than the photos suggest.,-0.116,handle,yes
+R50109,P1019,Skybags,5,Skybags review 1,The design looks modern and stands out without looking flashy.,0.775,value,yes
+R50110,P1019,Skybags,5,Skybags review 2,The wheels move smoothly even when the bag is fully packed.,0.718,size,no
+R50111,P1019,Skybags,5,Skybags review 3,The compartments help keep clothes and accessories organised.,0.724,wheels,yes
+R50112,P1019,Skybags,3,Skybags review 4,"It feels lightweight and easy to carry through stations and airports. However, the outer shell scratches more easily than expected.",-0.071,zipper,yes
+R50113,P1019,Skybags,4,Skybags review 5,"The wheels move smoothly even when the bag is fully packed. However, the usable size feels smaller than the photos suggest.",0.285,durability,yes
+R50114,P1019,Skybags,3,Skybags review 6,Zip quality could be better for frequent travellers.,-0.062,zipper,yes
+R50115,P1020,Skybags,4,Skybags review 1,The wheels move smoothly even when the bag is fully packed.,0.392,material,no
+R50116,P1020,Skybags,5,Skybags review 2,The compartments help keep clothes and accessories organised.,0.747,size,yes
+R50117,P1020,Skybags,5,Skybags review 3,It feels lightweight and easy to carry through stations and airports.,0.81,wheels,yes
+R50118,P1020,Skybags,3,Skybags review 4,"The wheels move smoothly even when the bag is fully packed. However, zip quality could be better for frequent travellers.",-0.056,handle,yes
+R50119,P1020,Skybags,3,Skybags review 5,"The wheels move smoothly even when the bag is fully packed. However, the outer shell scratches more easily than expected.",-0.033,handle,yes
+R50120,P1020,Skybags,1,Skybags review 6,Zip quality could be better for frequent travellers.,-0.79,material,yes
+R50121,P1021,American Tourister,5,American Tourister review 1,The brand gives confidence and the finish feels dependable.,0.797,value,no
+R50122,P1021,American Tourister,5,American Tourister review 2,The shell feels durable and handled rough travel well.,0.852,material,yes
+R50123,P1021,American Tourister,4,American Tourister review 3,The trolley movement is smooth and does not get stuck often.,0.455,design,yes
+R50124,P1021,American Tourister,4,American Tourister review 4,"The trolley movement is smooth and does not get stuck often. However, the price is higher than similar models with close ratings.",0.295,durability,yes
+R50125,P1021,American Tourister,4,American Tourister review 5,"The finish looks premium for an online purchase. However, inside pockets are limited for organised packing.",0.277,zipper,yes
+R50126,P1021,American Tourister,3,American Tourister review 6,Inside pockets are limited for organised packing.,-0.03,material,yes
+R50127,P1022,American Tourister,5,American Tourister review 1,The brand gives confidence and the finish feels dependable.,0.766,size,yes
+R50128,P1022,American Tourister,5,American Tourister review 2,The trolley movement is smooth and does not get stuck often.,0.822,size,yes
+R50129,P1022,American Tourister,5,American Tourister review 3,The shell feels durable and handled rough travel well.,0.719,size,yes
+R50130,P1022,American Tourister,3,American Tourister review 4,"The shell feels durable and handled rough travel well. However, a few buyers reported dents or marks on delivery.",-0.072,material,yes
+R50131,P1022,American Tourister,3,American Tourister review 5,"The brand gives confidence and the finish feels dependable. However, the price is higher than similar models with close ratings.",-0.008,durability,yes
+R50132,P1022,American Tourister,3,American Tourister review 6,Inside pockets are limited for organised packing.,-0.079,durability,yes
+R50133,P1023,American Tourister,4,American Tourister review 1,The shell feels durable and handled rough travel well.,0.461,material,yes
+R50134,P1023,American Tourister,5,American Tourister review 2,The brand gives confidence and the finish feels dependable.,0.849,value,yes
+R50135,P1023,American Tourister,5,American Tourister review 3,The brand gives confidence and the finish feels dependable.,0.834,value,yes
+R50136,P1023,American Tourister,4,American Tourister review 4,"The finish looks premium for an online purchase. However, the price is higher than similar models with close ratings.",0.195,durability,yes
+R50137,P1023,American Tourister,4,American Tourister review 5,"The finish looks premium for an online purchase. However, inside pockets are limited for organised packing.",0.297,handle,yes
+R50138,P1023,American Tourister,2,American Tourister review 6,The price is higher than similar models with close ratings.,-0.509,zipper,yes
+R50139,P1024,American Tourister,4,American Tourister review 1,The finish looks premium for an online purchase.,0.534,material,yes
+R50140,P1024,American Tourister,4,American Tourister review 2,The brand gives confidence and the finish feels dependable.,0.526,material,no
+R50141,P1024,American Tourister,5,American Tourister review 3,The shell feels durable and handled rough travel well.,0.712,design,yes
+R50142,P1024,American Tourister,4,American Tourister review 4,"The trolley movement is smooth and does not get stuck often. However, inside pockets are limited for organised packing.",0.276,zipper,yes
+R50143,P1024,American Tourister,4,American Tourister review 5,"The finish looks premium for an online purchase. However, inside pockets are limited for organised packing.",0.239,zipper,yes
+R50144,P1024,American Tourister,3,American Tourister review 6,The price is higher than similar models with close ratings.,-0.091,zipper,no
+R50145,P1025,American Tourister,5,American Tourister review 1,The brand gives confidence and the finish feels dependable.,0.747,wheels,yes
+R50146,P1025,American Tourister,5,American Tourister review 2,The shell feels durable and handled rough travel well.,0.791,size,yes
+R50147,P1025,American Tourister,4,American Tourister review 3,The shell feels durable and handled rough travel well.,0.519,material,yes
+R50148,P1025,American Tourister,3,American Tourister review 4,"The shell feels durable and handled rough travel well. However, inside pockets are limited for organised packing.",-0.086,handle,yes
+R50149,P1025,American Tourister,3,American Tourister review 5,"The trolley movement is smooth and does not get stuck often. However, a few buyers reported dents or marks on delivery.",-0.016,durability,yes
+R50150,P1025,American Tourister,2,American Tourister review 6,The price is higher than similar models with close ratings.,-0.402,durability,yes
+R50151,P1026,American Tourister,5,American Tourister review 1,The shell feels durable and handled rough travel well.,0.738,wheels,yes
+R50152,P1026,American Tourister,5,American Tourister review 2,The trolley movement is smooth and does not get stuck often.,0.856,wheels,yes
+R50153,P1026,American Tourister,5,American Tourister review 3,The trolley movement is smooth and does not get stuck often.,0.846,wheels,yes
+R50154,P1026,American Tourister,4,American Tourister review 4,"The trolley movement is smooth and does not get stuck often. However, the price is higher than similar models with close ratings.",0.242,handle,yes
+R50155,P1026,American Tourister,3,American Tourister review 5,"The shell feels durable and handled rough travel well. However, a few buyers reported dents or marks on delivery.",-0.111,zipper,yes
+R50156,P1026,American Tourister,1,American Tourister review 6,A few buyers reported dents or marks on delivery.,-0.754,zipper,yes
+R50157,P1027,American Tourister,5,American Tourister review 1,The trolley movement is smooth and does not get stuck often.,0.855,size,yes
+R50158,P1027,American Tourister,5,American Tourister review 2,The trolley movement is smooth and does not get stuck often.,0.723,wheels,yes
+R50159,P1027,American Tourister,5,American Tourister review 3,The finish looks premium for an online purchase.,0.827,wheels,no
+R50160,P1027,American Tourister,4,American Tourister review 4,"The brand gives confidence and the finish feels dependable. However, inside pockets are limited for organised packing.",0.234,material,yes
+R50161,P1027,American Tourister,3,American Tourister review 5,"The trolley movement is smooth and does not get stuck often. However, the price is higher than similar models with close ratings.",-0.156,durability,yes
+R50162,P1027,American Tourister,1,American Tourister review 6,A few buyers reported dents or marks on delivery.,-0.798,zipper,yes
+R50163,P1028,American Tourister,5,American Tourister review 1,The brand gives confidence and the finish feels dependable.,0.716,wheels,yes
+R50164,P1028,American Tourister,5,American Tourister review 2,The shell feels durable and handled rough travel well.,0.807,value,yes
+R50165,P1028,American Tourister,5,American Tourister review 3,The finish looks premium for an online purchase.,0.842,design,yes
+R50166,P1028,American Tourister,4,American Tourister review 4,"The finish looks premium for an online purchase. However, a few buyers reported dents or marks on delivery.",0.145,material,yes
+R50167,P1028,American Tourister,3,American Tourister review 5,"The finish looks premium for an online purchase. However, inside pockets are limited for organised packing.",-0.144,material,yes
+R50168,P1028,American Tourister,2,American Tourister review 6,The price is higher than similar models with close ratings.,-0.53,durability,yes
+R50169,P1029,American Tourister,5,American Tourister review 1,The brand gives confidence and the finish feels dependable.,0.858,design,yes
+R50170,P1029,American Tourister,5,American Tourister review 2,The shell feels durable and handled rough travel well.,0.794,design,yes
+R50171,P1029,American Tourister,4,American Tourister review 3,The shell feels durable and handled rough travel well.,0.38,material,yes
+R50172,P1029,American Tourister,4,American Tourister review 4,"The shell feels durable and handled rough travel well. However, the price is higher than similar models with close ratings.",0.158,handle,yes
+R50173,P1029,American Tourister,4,American Tourister review 5,"The shell feels durable and handled rough travel well. However, the price is higher than similar models with close ratings.",0.234,handle,no
+R50174,P1029,American Tourister,1,American Tourister review 6,The price is higher than similar models with close ratings.,-0.816,material,yes
+R50175,P1030,American Tourister,4,American Tourister review 1,The finish looks premium for an online purchase.,0.387,material,yes
+R50176,P1030,American Tourister,5,American Tourister review 2,The trolley movement is smooth and does not get stuck often.,0.71,wheels,yes
+R50177,P1030,American Tourister,5,American Tourister review 3,The finish looks premium for an online purchase.,0.778,wheels,yes
+R50178,P1030,American Tourister,4,American Tourister review 4,"The brand gives confidence and the finish feels dependable. However, the price is higher than similar models with close ratings.",0.151,handle,yes
+R50179,P1030,American Tourister,4,American Tourister review 5,"The trolley movement is smooth and does not get stuck often. However, inside pockets are limited for organised packing.",0.221,durability,yes
+R50180,P1030,American Tourister,3,American Tourister review 6,A few buyers reported dents or marks on delivery.,-0.091,handle,yes
+R50181,P1031,VIP,5,VIP review 1,The material quality feels good for regular travel.,0.76,value,yes
+R50182,P1031,VIP,4,VIP review 2,It is spacious enough for a week long trip.,0.395,wheels,no
+R50183,P1031,VIP,5,VIP review 3,The material quality feels good for regular travel.,0.794,wheels,yes
+R50184,P1031,VIP,3,VIP review 4,"The material quality feels good for regular travel. However, the price feels high during low-discount periods.",-0.103,durability,yes
+R50185,P1031,VIP,3,VIP review 5,"It is spacious enough for a week long trip. However, the price feels high during low-discount periods.",-0.064,material,yes
+R50186,P1031,VIP,3,VIP review 6,The body feels heavy before packing.,-0.124,material,no
+R50187,P1032,VIP,5,VIP review 1,The handle feels sturdy when pulling the suitcase.,0.798,material,yes
+R50188,P1032,VIP,5,VIP review 2,The brand feels trustworthy and the suitcase arrived as described.,0.705,value,yes
+R50189,P1032,VIP,5,VIP review 3,The material quality feels good for regular travel.,0.729,wheels,yes
+R50190,P1032,VIP,3,VIP review 4,"It is spacious enough for a week long trip. However, the body feels heavy before packing.",-0.145,zipper,yes
+R50191,P1032,VIP,4,VIP review 5,"It is spacious enough for a week long trip. However, the wheels make noise on rough flooring.",0.165,material,yes
+R50192,P1032,VIP,3,VIP review 6,The price feels high during low-discount periods.,-0.019,zipper,yes
+R50193,P1033,VIP,5,VIP review 1,It is spacious enough for a week long trip.,0.766,size,yes
+R50194,P1033,VIP,5,VIP review 2,The brand feels trustworthy and the suitcase arrived as described.,0.745,wheels,yes
+R50195,P1033,VIP,5,VIP review 3,It is spacious enough for a week long trip.,0.707,value,yes
+R50196,P1033,VIP,3,VIP review 4,"The brand feels trustworthy and the suitcase arrived as described. However, the body feels heavy before packing.",-0.009,material,yes
+R50197,P1033,VIP,4,VIP review 5,"The material quality feels good for regular travel. However, the wheels make noise on rough flooring.",0.141,zipper,yes
+R50198,P1033,VIP,2,VIP review 6,The body feels heavy before packing.,-0.48,handle,yes
+R50199,P1034,VIP,5,VIP review 1,It is spacious enough for a week long trip.,0.838,wheels,yes
+R50200,P1034,VIP,5,VIP review 2,It is spacious enough for a week long trip.,0.746,size,yes
+R50201,P1034,VIP,5,VIP review 3,The material quality feels good for regular travel.,0.833,size,yes
+R50202,P1034,VIP,3,VIP review 4,"The brand feels trustworthy and the suitcase arrived as described. However, the wheels make noise on rough flooring.",-0.09,handle,yes
+R50203,P1034,VIP,4,VIP review 5,"The brand feels trustworthy and the suitcase arrived as described. However, the wheels make noise on rough flooring.",0.175,material,yes
+R50204,P1034,VIP,3,VIP review 6,The price feels high during low-discount periods.,-0.075,zipper,yes
+R50205,P1035,VIP,4,VIP review 1,The handle feels sturdy when pulling the suitcase.,0.412,value,yes
+R50206,P1035,VIP,5,VIP review 2,The brand feels trustworthy and the suitcase arrived as described.,0.774,size,yes
+R50207,P1035,VIP,5,VIP review 3,It is spacious enough for a week long trip.,0.752,material,yes
+R50208,P1035,VIP,4,VIP review 4,"The material quality feels good for regular travel. However, the body feels heavy before packing.",0.215,zipper,yes
+R50209,P1035,VIP,3,VIP review 5,"The material quality feels good for regular travel. However, the price feels high during low-discount periods.",-0.079,material,yes
+R50210,P1035,VIP,1,VIP review 6,The body feels heavy before packing.,-0.767,durability,no
+R50211,P1036,VIP,5,VIP review 1,It is spacious enough for a week long trip.,0.853,material,yes
+R50212,P1036,VIP,5,VIP review 2,The brand feels trustworthy and the suitcase arrived as described.,0.751,design,yes
+R50213,P1036,VIP,5,VIP review 3,The handle feels sturdy when pulling the suitcase.,0.83,wheels,yes
+R50214,P1036,VIP,3,VIP review 4,"The brand feels trustworthy and the suitcase arrived as described. However, the price feels high during low-discount periods.",-0.12,zipper,yes
+R50215,P1036,VIP,3,VIP review 5,"It is spacious enough for a week long trip. However, the price feels high during low-discount periods.",-0.1,material,yes
+R50216,P1036,VIP,3,VIP review 6,The wheels make noise on rough flooring.,-0.034,zipper,yes
+R50217,P1037,VIP,5,VIP review 1,The material quality feels good for regular travel.,0.84,material,yes
+R50218,P1037,VIP,5,VIP review 2,The handle feels sturdy when pulling the suitcase.,0.721,size,yes
+R50219,P1037,VIP,5,VIP review 3,The brand feels trustworthy and the suitcase arrived as described.,0.803,size,yes
+R50220,P1037,VIP,3,VIP review 4,"The handle feels sturdy when pulling the suitcase. However, the price feels high during low-discount periods.",-0.079,durability,no
+R50221,P1037,VIP,3,VIP review 5,"The material quality feels good for regular travel. However, the body feels heavy before packing.",-0.008,material,yes
+R50222,P1037,VIP,1,VIP review 6,The body feels heavy before packing.,-0.853,zipper,yes
+R50223,P1038,VIP,5,VIP review 1,The brand feels trustworthy and the suitcase arrived as described.,0.721,material,yes
+R50224,P1038,VIP,5,VIP review 2,The handle feels sturdy when pulling the suitcase.,0.829,material,yes
+R50225,P1038,VIP,5,VIP review 3,It is spacious enough for a week long trip.,0.808,value,yes
+R50226,P1038,VIP,4,VIP review 4,"It is spacious enough for a week long trip. However, the price feels high during low-discount periods.",0.177,durability,yes
+R50227,P1038,VIP,4,VIP review 5,"It is spacious enough for a week long trip. However, the body feels heavy before packing.",0.214,durability,yes
+R50228,P1038,VIP,3,VIP review 6,The price feels high during low-discount periods.,-0.005,material,yes
+R50229,P1039,VIP,4,VIP review 1,The material quality feels good for regular travel.,0.516,material,yes
+R50230,P1039,VIP,5,VIP review 2,The handle feels sturdy when pulling the suitcase.,0.724,material,yes
+R50231,P1039,VIP,5,VIP review 3,The handle feels sturdy when pulling the suitcase.,0.766,wheels,yes
+R50232,P1039,VIP,4,VIP review 4,"The material quality feels good for regular travel. However, the body feels heavy before packing.",0.2,zipper,no
+R50233,P1039,VIP,4,VIP review 5,"The brand feels trustworthy and the suitcase arrived as described. However, the price feels high during low-discount periods.",0.162,handle,yes
+R50234,P1039,VIP,1,VIP review 6,The price feels high during low-discount periods.,-0.828,material,no
+R50235,P1040,VIP,5,VIP review 1,It is spacious enough for a week long trip.,0.748,design,no
+R50236,P1040,VIP,5,VIP review 2,It is spacious enough for a week long trip.,0.71,size,yes
+R50237,P1040,VIP,5,VIP review 3,It is spacious enough for a week long trip.,0.801,wheels,yes
+R50238,P1040,VIP,4,VIP review 4,"The handle feels sturdy when pulling the suitcase. However, the wheels make noise on rough flooring.",0.238,zipper,yes
+R50239,P1040,VIP,3,VIP review 5,"It is spacious enough for a week long trip. However, the body feels heavy before packing.",-0.149,material,yes
+R50240,P1040,VIP,2,VIP review 6,The wheels make noise on rough flooring.,-0.458,zipper,yes
+R50241,P1041,Aristocrat,5,Aristocrat review 1,Capacity is decent and suitable for students or weekend travel.,0.823,wheels,yes
+R50242,P1041,Aristocrat,4,Aristocrat review 2,The simple design is clean and easy to use.,0.467,value,yes
+R50243,P1041,Aristocrat,5,Aristocrat review 3,Capacity is decent and suitable for students or weekend travel.,0.801,size,yes
+R50244,P1041,Aristocrat,4,Aristocrat review 4,"The low price makes it a practical purchase for occasional travel. However, the handle feels weak when the bag is filled.",0.187,zipper,no
+R50245,P1041,Aristocrat,4,Aristocrat review 5,"Capacity is decent and suitable for students or weekend travel. However, the material feels thin and may not suit rough handling.",0.222,material,yes
+R50246,P1041,Aristocrat,1,Aristocrat review 6,Some users mention zipper issues after a few uses.,-0.854,handle,yes
+R50247,P1042,Aristocrat,5,Aristocrat review 1,Delivery was quick and packaging was acceptable.,0.843,size,yes
+R50248,P1042,Aristocrat,5,Aristocrat review 2,Capacity is decent and suitable for students or weekend travel.,0.759,size,yes
+R50249,P1042,Aristocrat,5,Aristocrat review 3,The simple design is clean and easy to use.,0.713,size,yes
+R50250,P1042,Aristocrat,4,Aristocrat review 4,"Capacity is decent and suitable for students or weekend travel. However, the handle feels weak when the bag is filled.",0.156,material,yes
+R50251,P1042,Aristocrat,4,Aristocrat review 5,"The simple design is clean and easy to use. However, some users mention zipper issues after a few uses.",0.167,durability,yes
+R50252,P1042,Aristocrat,3,Aristocrat review 6,The material feels thin and may not suit rough handling.,-0.062,durability,yes
+R50253,P1043,Aristocrat,5,Aristocrat review 1,The simple design is clean and easy to use.,0.852,design,yes
+R50254,P1043,Aristocrat,4,Aristocrat review 2,Delivery was quick and packaging was acceptable.,0.418,wheels,yes
+R50255,P1043,Aristocrat,5,Aristocrat review 3,The simple design is clean and easy to use.,0.797,wheels,yes
+R50256,P1043,Aristocrat,4,Aristocrat review 4,"The simple design is clean and easy to use. However, some users mention zipper issues after a few uses.",0.232,zipper,yes
+R50257,P1043,Aristocrat,4,Aristocrat review 5,"Delivery was quick and packaging was acceptable. However, some users mention zipper issues after a few uses.",0.294,handle,no
+R50258,P1043,Aristocrat,3,Aristocrat review 6,Some users mention zipper issues after a few uses.,-0.014,material,yes
+R50259,P1044,Aristocrat,4,Aristocrat review 1,Delivery was quick and packaging was acceptable.,0.516,design,yes
+R50260,P1044,Aristocrat,5,Aristocrat review 2,Delivery was quick and packaging was acceptable.,0.807,value,yes
+R50261,P1044,Aristocrat,4,Aristocrat review 3,The simple design is clean and easy to use.,0.507,design,yes
+R50262,P1044,Aristocrat,3,Aristocrat review 4,"The low price makes it a practical purchase for occasional travel. However, the material feels thin and may not suit rough handling.",-0.034,handle,no
+R50263,P1044,Aristocrat,3,Aristocrat review 5,"The simple design is clean and easy to use. However, some users mention zipper issues after a few uses.",-0.149,zipper,yes
+R50264,P1044,Aristocrat,2,Aristocrat review 6,The handle feels weak when the bag is filled.,-0.428,material,no
+R50265,P1045,Aristocrat,5,Aristocrat review 1,The simple design is clean and easy to use.,0.729,material,yes
+R50266,P1045,Aristocrat,4,Aristocrat review 2,Delivery was quick and packaging was acceptable.,0.463,wheels,yes
+R50267,P1045,Aristocrat,5,Aristocrat review 3,Capacity is decent and suitable for students or weekend travel.,0.755,design,yes
+R50268,P1045,Aristocrat,4,Aristocrat review 4,"The simple design is clean and easy to use. However, the material feels thin and may not suit rough handling.",0.242,handle,yes
+R50269,P1045,Aristocrat,4,Aristocrat review 5,"Capacity is decent and suitable for students or weekend travel. However, the handle feels weak when the bag is filled.",0.22,zipper,yes
+R50270,P1045,Aristocrat,3,Aristocrat review 6,The material feels thin and may not suit rough handling.,-0.025,durability,yes
+R50271,P1046,Aristocrat,4,Aristocrat review 1,The simple design is clean and easy to use.,0.447,material,yes
+R50272,P1046,Aristocrat,5,Aristocrat review 2,Delivery was quick and packaging was acceptable.,0.803,value,yes
+R50273,P1046,Aristocrat,5,Aristocrat review 3,Capacity is decent and suitable for students or weekend travel.,0.773,value,yes
+R50274,P1046,Aristocrat,4,Aristocrat review 4,"Capacity is decent and suitable for students or weekend travel. However, some users mention zipper issues after a few uses.",0.214,durability,yes
+R50275,P1046,Aristocrat,4,Aristocrat review 5,"Capacity is decent and suitable for students or weekend travel. However, some users mention zipper issues after a few uses.",0.296,material,yes
+R50276,P1046,Aristocrat,3,Aristocrat review 6,The handle feels weak when the bag is filled.,-0.109,zipper,yes
+R50277,P1047,Aristocrat,5,Aristocrat review 1,Delivery was quick and packaging was acceptable.,0.854,design,yes
+R50278,P1047,Aristocrat,5,Aristocrat review 2,The simple design is clean and easy to use.,0.73,value,yes
+R50279,P1047,Aristocrat,5,Aristocrat review 3,Delivery was quick and packaging was acceptable.,0.704,size,yes
+R50280,P1047,Aristocrat,3,Aristocrat review 4,"Delivery was quick and packaging was acceptable. However, the material feels thin and may not suit rough handling.",-0.152,material,yes
+R50281,P1047,Aristocrat,3,Aristocrat review 5,"Delivery was quick and packaging was acceptable. However, some users mention zipper issues after a few uses.",-0.091,zipper,yes
+R50282,P1047,Aristocrat,2,Aristocrat review 6,Some users mention zipper issues after a few uses.,-0.496,zipper,yes
+R50283,P1048,Aristocrat,5,Aristocrat review 1,Delivery was quick and packaging was acceptable.,0.809,material,yes
+R50284,P1048,Aristocrat,5,Aristocrat review 2,The low price makes it a practical purchase for occasional travel.,0.789,value,yes
+R50285,P1048,Aristocrat,5,Aristocrat review 3,Capacity is decent and suitable for students or weekend travel.,0.764,material,no
+R50286,P1048,Aristocrat,4,Aristocrat review 4,"The low price makes it a practical purchase for occasional travel. However, the material feels thin and may not suit rough handling.",0.223,durability,yes
+R50287,P1048,Aristocrat,4,Aristocrat review 5,"Capacity is decent and suitable for students or weekend travel. However, some users mention zipper issues after a few uses.",0.203,handle,yes
+R50288,P1048,Aristocrat,2,Aristocrat review 6,The handle feels weak when the bag is filled.,-0.447,material,yes
+R50289,P1049,Aristocrat,5,Aristocrat review 1,The simple design is clean and easy to use.,0.796,wheels,yes
+R50290,P1049,Aristocrat,4,Aristocrat review 2,Capacity is decent and suitable for students or weekend travel.,0.457,material,yes
+R50291,P1049,Aristocrat,5,Aristocrat review 3,Delivery was quick and packaging was acceptable.,0.705,design,yes
+R50292,P1049,Aristocrat,3,Aristocrat review 4,"The low price makes it a practical purchase for occasional travel. However, the material feels thin and may not suit rough handling.",-0.11,durability,yes
+R50293,P1049,Aristocrat,4,Aristocrat review 5,"Capacity is decent and suitable for students or weekend travel. However, some users mention zipper issues after a few uses.",0.253,zipper,yes
+R50294,P1049,Aristocrat,2,Aristocrat review 6,The handle feels weak when the bag is filled.,-0.51,material,yes
+R50295,P1050,Aristocrat,4,Aristocrat review 1,Delivery was quick and packaging was acceptable.,0.469,value,yes
+R50296,P1050,Aristocrat,5,Aristocrat review 2,The simple design is clean and easy to use.,0.81,design,yes
+R50297,P1050,Aristocrat,5,Aristocrat review 3,Delivery was quick and packaging was acceptable.,0.746,value,yes
+R50298,P1050,Aristocrat,4,Aristocrat review 4,"Delivery was quick and packaging was acceptable. However, some users mention zipper issues after a few uses.",0.186,handle,yes
+R50299,P1050,Aristocrat,4,Aristocrat review 5,"The low price makes it a practical purchase for occasional travel. However, some users mention zipper issues after a few uses.",0.26,material,yes
+R50300,P1050,Aristocrat,3,Aristocrat review 6,The handle feels weak when the bag is filled.,-0.138,durability,yes
+R50301,P1051,Nasher Miles,4,Nasher Miles review 1,It has a premium look that photographs well.,0.396,wheels,yes
+R50302,P1051,Nasher Miles,5,Nasher Miles review 2,Packing space is good and the straps hold clothes in place.,0.701,design,yes
+R50303,P1051,Nasher Miles,5,Nasher Miles review 3,It has a premium look that photographs well.,0.776,size,yes
+R50304,P1051,Nasher Miles,4,Nasher Miles review 4,"The wheels move smoothly even when the bag is fully packed. However, scratch marks are visible on darker shades.",0.285,zipper,no
+R50305,P1051,Nasher Miles,3,Nasher Miles review 5,"It has a premium look that photographs well. However, after-sales response appears slow for replacement requests.",-0.093,handle,yes
+R50306,P1051,Nasher Miles,2,Nasher Miles review 6,Scratch marks are visible on darker shades.,-0.41,handle,yes
+R50307,P1052,Nasher Miles,5,Nasher Miles review 1,The colour options are attractive and look fresh.,0.858,size,yes
+R50308,P1052,Nasher Miles,5,Nasher Miles review 2,Packing space is good and the straps hold clothes in place.,0.744,size,yes
+R50309,P1052,Nasher Miles,5,Nasher Miles review 3,The wheels move smoothly even when the bag is fully packed.,0.804,size,yes
+R50310,P1052,Nasher Miles,4,Nasher Miles review 4,"The colour options are attractive and look fresh. However, after-sales response appears slow for replacement requests.",0.231,material,yes
+R50311,P1052,Nasher Miles,4,Nasher Miles review 5,"It has a premium look that photographs well. However, after-sales response appears slow for replacement requests.",0.222,durability,no
+R50312,P1052,Nasher Miles,1,Nasher Miles review 6,The delivered colour sometimes looks different from the product image.,-0.848,material,yes
+R50313,P1053,Nasher Miles,5,Nasher Miles review 1,The wheels move smoothly even when the bag is fully packed.,0.702,material,yes
+R50314,P1053,Nasher Miles,5,Nasher Miles review 2,It has a premium look that photographs well.,0.774,wheels,yes
+R50315,P1053,Nasher Miles,4,Nasher Miles review 3,The wheels move smoothly even when the bag is fully packed.,0.439,value,yes
+R50316,P1053,Nasher Miles,3,Nasher Miles review 4,"It has a premium look that photographs well. However, scratch marks are visible on darker shades.",-0.04,durability,yes
+R50317,P1053,Nasher Miles,4,Nasher Miles review 5,"Packing space is good and the straps hold clothes in place. However, after-sales response appears slow for replacement requests.",0.262,handle,yes
+R50318,P1053,Nasher Miles,2,Nasher Miles review 6,After-sales response appears slow for replacement requests.,-0.548,durability,yes
+R50319,P1054,Nasher Miles,5,Nasher Miles review 1,It has a premium look that photographs well.,0.771,material,yes
+R50320,P1054,Nasher Miles,5,Nasher Miles review 2,Packing space is good and the straps hold clothes in place.,0.829,size,yes
+R50321,P1054,Nasher Miles,5,Nasher Miles review 3,Packing space is good and the straps hold clothes in place.,0.789,wheels,yes
+R50322,P1054,Nasher Miles,3,Nasher Miles review 4,"The wheels move smoothly even when the bag is fully packed. However, after-sales response appears slow for replacement requests.",-0.119,durability,no
+R50323,P1054,Nasher Miles,3,Nasher Miles review 5,"It has a premium look that photographs well. However, after-sales response appears slow for replacement requests.",-0.092,zipper,yes
+R50324,P1054,Nasher Miles,2,Nasher Miles review 6,The delivered colour sometimes looks different from the product image.,-0.514,zipper,yes
+R50325,P1055,Nasher Miles,5,Nasher Miles review 1,The wheels move smoothly even when the bag is fully packed.,0.76,size,yes
+R50326,P1055,Nasher Miles,5,Nasher Miles review 2,It has a premium look that photographs well.,0.729,wheels,yes
+R50327,P1055,Nasher Miles,4,Nasher Miles review 3,It has a premium look that photographs well.,0.501,wheels,yes
+R50328,P1055,Nasher Miles,4,Nasher Miles review 4,"Packing space is good and the straps hold clothes in place. However, after-sales response appears slow for replacement requests.",0.272,durability,yes
+R50329,P1055,Nasher Miles,4,Nasher Miles review 5,"The wheels move smoothly even when the bag is fully packed. However, the delivered colour sometimes looks different from the product image.",0.29,handle,yes
+R50330,P1055,Nasher Miles,3,Nasher Miles review 6,The delivered colour sometimes looks different from the product image.,-0.062,material,yes
+R50331,P1056,Nasher Miles,5,Nasher Miles review 1,The colour options are attractive and look fresh.,0.739,wheels,no
+R50332,P1056,Nasher Miles,5,Nasher Miles review 2,Packing space is good and the straps hold clothes in place.,0.821,design,yes
+R50333,P1056,Nasher Miles,5,Nasher Miles review 3,It has a premium look that photographs well.,0.831,design,yes
+R50334,P1056,Nasher Miles,4,Nasher Miles review 4,"The wheels move smoothly even when the bag is fully packed. However, after-sales response appears slow for replacement requests.",0.188,handle,yes
+R50335,P1056,Nasher Miles,4,Nasher Miles review 5,"It has a premium look that photographs well. However, scratch marks are visible on darker shades.",0.15,material,yes
+R50336,P1056,Nasher Miles,3,Nasher Miles review 6,After-sales response appears slow for replacement requests.,-0.071,material,no
+R50337,P1057,Nasher Miles,5,Nasher Miles review 1,The wheels move smoothly even when the bag is fully packed.,0.724,size,yes
+R50338,P1057,Nasher Miles,4,Nasher Miles review 2,Packing space is good and the straps hold clothes in place.,0.517,value,yes
+R50339,P1057,Nasher Miles,5,Nasher Miles review 3,Packing space is good and the straps hold clothes in place.,0.855,size,yes
+R50340,P1057,Nasher Miles,3,Nasher Miles review 4,"It has a premium look that photographs well. However, scratch marks are visible on darker shades.",-0.127,material,yes
+R50341,P1057,Nasher Miles,3,Nasher Miles review 5,"Packing space is good and the straps hold clothes in place. However, scratch marks are visible on darker shades.",-0.152,handle,yes
+R50342,P1057,Nasher Miles,1,Nasher Miles review 6,The delivered colour sometimes looks different from the product image.,-0.823,handle,yes
+R50343,P1058,Nasher Miles,5,Nasher Miles review 1,The colour options are attractive and look fresh.,0.811,design,yes
+R50344,P1058,Nasher Miles,5,Nasher Miles review 2,Packing space is good and the straps hold clothes in place.,0.824,value,yes
+R50345,P1058,Nasher Miles,5,Nasher Miles review 3,The wheels move smoothly even when the bag is fully packed.,0.782,value,yes
+R50346,P1058,Nasher Miles,4,Nasher Miles review 4,"The colour options are attractive and look fresh. However, after-sales response appears slow for replacement requests.",0.286,material,yes
+R50347,P1058,Nasher Miles,3,Nasher Miles review 5,"Packing space is good and the straps hold clothes in place. However, the delivered colour sometimes looks different from the product image.",-0.157,handle,yes
+R50348,P1058,Nasher Miles,1,Nasher Miles review 6,Scratch marks are visible on darker shades.,-0.847,handle,yes
+R50349,P1059,Nasher Miles,5,Nasher Miles review 1,The wheels move smoothly even when the bag is fully packed.,0.774,size,yes
+R50350,P1059,Nasher Miles,4,Nasher Miles review 2,The wheels move smoothly even when the bag is fully packed.,0.458,material,yes
+R50351,P1059,Nasher Miles,4,Nasher Miles review 3,The colour options are attractive and look fresh.,0.531,wheels,yes
+R50352,P1059,Nasher Miles,3,Nasher Miles review 4,"The colour options are attractive and look fresh. However, scratch marks are visible on darker shades.",-0.149,handle,yes
+R50353,P1059,Nasher Miles,4,Nasher Miles review 5,"It has a premium look that photographs well. However, after-sales response appears slow for replacement requests.",0.15,material,yes
+R50354,P1059,Nasher Miles,2,Nasher Miles review 6,After-sales response appears slow for replacement requests.,-0.559,zipper,yes
+R50355,P1060,Nasher Miles,5,Nasher Miles review 1,The colour options are attractive and look fresh.,0.829,size,yes
+R50356,P1060,Nasher Miles,5,Nasher Miles review 2,The colour options are attractive and look fresh.,0.739,design,yes
+R50357,P1060,Nasher Miles,5,Nasher Miles review 3,The wheels move smoothly even when the bag is fully packed.,0.713,size,yes
+R50358,P1060,Nasher Miles,3,Nasher Miles review 4,"Packing space is good and the straps hold clothes in place. However, after-sales response appears slow for replacement requests.",-0.112,handle,yes
+R50359,P1060,Nasher Miles,3,Nasher Miles review 5,"The colour options are attractive and look fresh. However, after-sales response appears slow for replacement requests.",-0.095,zipper,yes
+R50360,P1060,Nasher Miles,3,Nasher Miles review 6,The delivered colour sometimes looks different from the product image.,-0.048,zipper,no
