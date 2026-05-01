@@ -1,0 +1,61 @@
+product_id,brand,title,category,size,selling_price_inr,list_price_inr,discount_pct,rating,review_count,amazon_url
+P1001,Safari,Safari Cruise Cabin Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Cabin 55 cm,3149,6749,53,4.1,2038,https://www.amazon.in/dp/P1001
+P1002,Safari,Safari Neo Medium Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Medium 65 cm,2799,4349,35,4.0,3172,https://www.amazon.in/dp/P1002
+P1003,Safari,Safari Rover Large Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Large 75 cm,3549,6249,43,4.3,3451,https://www.amazon.in/dp/P1003
+P1004,Safari,Safari Edge Cabin Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Cabin 55 cm,2199,4099,46,3.8,4310,https://www.amazon.in/dp/P1004
+P1005,Safari,Safari Metro Medium Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Medium 65 cm,2999,4499,33,3.8,4627,https://www.amazon.in/dp/P1005
+P1006,Safari,Safari Cruise Large Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Large 75 cm,2849,4849,41,4.2,653,https://www.amazon.in/dp/P1006
+P1007,Safari,Safari Neo Cabin Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Cabin 55 cm,3399,5699,40,4.2,4762,https://www.amazon.in/dp/P1007
+P1008,Safari,Safari Rover Medium Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Medium 65 cm,3199,5949,46,4.2,804,https://www.amazon.in/dp/P1008
+P1009,Safari,Safari Edge Large Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Large 75 cm,2599,3849,32,4.1,626,https://www.amazon.in/dp/P1009
+P1010,Safari,Safari Metro Cabin Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Cabin 55 cm,3049,7849,61,3.8,1476,https://www.amazon.in/dp/P1010
+P1011,Skybags,Skybags Cruise Cabin Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Cabin 55 cm,4449,8749,49,4.6,2384,https://www.amazon.in/dp/P1011
+P1012,Skybags,Skybags Neo Medium Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Medium 65 cm,3899,5849,33,4.4,1635,https://www.amazon.in/dp/P1012
+P1013,Skybags,Skybags Rover Large Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Large 75 cm,3399,6549,48,4.4,1083,https://www.amazon.in/dp/P1013
+P1014,Skybags,Skybags Edge Cabin Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Cabin 55 cm,2949,5199,43,4.5,1962,https://www.amazon.in/dp/P1014
+P1015,Skybags,Skybags Metro Medium Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Medium 65 cm,3899,7499,48,4.3,3992,https://www.amazon.in/dp/P1015
+P1016,Skybags,Skybags Cruise Large Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Large 75 cm,3799,6449,41,4.1,1551,https://www.amazon.in/dp/P1016
+P1017,Skybags,Skybags Neo Cabin Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Cabin 55 cm,3999,7549,47,4.2,4618,https://www.amazon.in/dp/P1017
+P1018,Skybags,Skybags Rover Medium Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Medium 65 cm,4149,7699,46,4.3,2203,https://www.amazon.in/dp/P1018
+P1019,Skybags,Skybags Edge Large Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Large 75 cm,3699,6199,40,4.1,4231,https://www.amazon.in/dp/P1019
+P1020,Skybags,Skybags Metro Cabin Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Cabin 55 cm,4399,7749,43,4.3,875,https://www.amazon.in/dp/P1020
+P1021,American Tourister,American Tourister Cruise Cabin Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Cabin 55 cm,6099,8149,25,4.3,868,https://www.amazon.in/dp/P1021
+P1022,American Tourister,American Tourister Neo Medium Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Medium 65 cm,4849,7049,31,4.4,3521,https://www.amazon.in/dp/P1022
+P1023,American Tourister,American Tourister Rover Large Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Large 75 cm,5799,9549,39,4.3,4725,https://www.amazon.in/dp/P1023
+P1024,American Tourister,American Tourister Edge Cabin Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Cabin 55 cm,5999,7349,18,4.6,1456,https://www.amazon.in/dp/P1024
+P1025,American Tourister,American Tourister Metro Medium Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Medium 65 cm,5299,8699,39,4.2,2663,https://www.amazon.in/dp/P1025
+P1026,American Tourister,American Tourister Cruise Large Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Large 75 cm,6149,8949,31,4.1,2684,https://www.amazon.in/dp/P1026
+P1027,American Tourister,American Tourister Neo Cabin Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Cabin 55 cm,4749,7549,37,4.6,3207,https://www.amazon.in/dp/P1027
+P1028,American Tourister,American Tourister Rover Medium Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Medium 65 cm,5449,7899,31,4.2,581,https://www.amazon.in/dp/P1028
+P1029,American Tourister,American Tourister Edge Large Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Large 75 cm,5849,7699,24,4.4,5101,https://www.amazon.in/dp/P1029
+P1030,American Tourister,American Tourister Metro Cabin Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Cabin 55 cm,4899,7549,35,4.1,1103,https://www.amazon.in/dp/P1030
+P1031,VIP,VIP Cruise Cabin Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Cabin 55 cm,4349,6599,34,3.9,988,https://www.amazon.in/dp/P1031
+P1032,VIP,VIP Neo Medium Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Medium 65 cm,5349,6949,23,4.3,4913,https://www.amazon.in/dp/P1032
+P1033,VIP,VIP Rover Large Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Large 75 cm,5149,7699,33,4.1,3839,https://www.amazon.in/dp/P1033
+P1034,VIP,VIP Edge Cabin Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Cabin 55 cm,5249,9249,43,4.3,556,https://www.amazon.in/dp/P1034
+P1035,VIP,VIP Metro Medium Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Medium 65 cm,5199,6499,20,4.5,1419,https://www.amazon.in/dp/P1035
+P1036,VIP,VIP Cruise Large Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Large 75 cm,5399,8449,36,3.9,4363,https://www.amazon.in/dp/P1036
+P1037,VIP,VIP Neo Cabin Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Cabin 55 cm,3549,5849,39,4.3,2537,https://www.amazon.in/dp/P1037
+P1038,VIP,VIP Rover Medium Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Medium 65 cm,4549,5649,19,4.0,4523,https://www.amazon.in/dp/P1038
+P1039,VIP,VIP Edge Large Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Large 75 cm,5249,7999,34,4.2,4146,https://www.amazon.in/dp/P1039
+P1040,VIP,VIP Metro Cabin Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Cabin 55 cm,3549,5099,30,4.4,4705,https://www.amazon.in/dp/P1040
+P1041,Aristocrat,Aristocrat Cruise Cabin Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Cabin 55 cm,2149,6149,65,4.0,3034,https://www.amazon.in/dp/P1041
+P1042,Aristocrat,Aristocrat Neo Medium Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Medium 65 cm,1899,3749,49,3.9,3224,https://www.amazon.in/dp/P1042
+P1043,Aristocrat,Aristocrat Rover Large Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Large 75 cm,2599,5549,53,3.9,3537,https://www.amazon.in/dp/P1043
+P1044,Aristocrat,Aristocrat Edge Cabin Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Cabin 55 cm,2799,5749,51,3.9,2549,https://www.amazon.in/dp/P1044
+P1045,Aristocrat,Aristocrat Metro Medium Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Medium 65 cm,3049,5899,48,3.8,4448,https://www.amazon.in/dp/P1045
+P1046,Aristocrat,Aristocrat Cruise Large Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Large 75 cm,2849,6349,55,4.0,4934,https://www.amazon.in/dp/P1046
+P1047,Aristocrat,Aristocrat Neo Cabin Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Cabin 55 cm,2149,4599,53,4.1,2587,https://www.amazon.in/dp/P1047
+P1048,Aristocrat,Aristocrat Rover Medium Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Medium 65 cm,2049,4099,50,4.0,4340,https://www.amazon.in/dp/P1048
+P1049,Aristocrat,Aristocrat Edge Large Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Large 75 cm,2849,5199,45,4.2,3622,https://www.amazon.in/dp/P1049
+P1050,Aristocrat,Aristocrat Metro Cabin Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Cabin 55 cm,2949,5799,49,4.1,2375,https://www.amazon.in/dp/P1050
+P1051,Nasher Miles,Nasher Miles Cruise Cabin Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Cabin 55 cm,4299,6849,37,4.5,4560,https://www.amazon.in/dp/P1051
+P1052,Nasher Miles,Nasher Miles Neo Medium Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Medium 65 cm,4999,7949,37,4.2,4862,https://www.amazon.in/dp/P1052
+P1053,Nasher Miles,Nasher Miles Rover Large Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Large 75 cm,3599,5849,38,4.5,2910,https://www.amazon.in/dp/P1053
+P1054,Nasher Miles,Nasher Miles Edge Cabin Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Cabin 55 cm,3199,4549,29,4.1,4901,https://www.amazon.in/dp/P1054
+P1055,Nasher Miles,Nasher Miles Metro Medium Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Medium 65 cm,3349,4749,29,4.0,3653,https://www.amazon.in/dp/P1055
+P1056,Nasher Miles,Nasher Miles Cruise Large Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Large 75 cm,4949,7899,37,4.3,5075,https://www.amazon.in/dp/P1056
+P1057,Nasher Miles,Nasher Miles Neo Cabin Cabin suitcase with TSA Lock and 8 Wheels,Cabin suitcase,Cabin 55 cm,3799,5599,32,4.1,4506,https://www.amazon.in/dp/P1057
+P1058,Nasher Miles,Nasher Miles Rover Medium Check-in suitcase with TSA Lock and 8 Wheels,Check-in suitcase,Medium 65 cm,3749,6049,38,4.2,1766,https://www.amazon.in/dp/P1058
+P1059,Nasher Miles,Nasher Miles Edge Large Hard luggage with TSA Lock and 8 Wheels,Hard luggage,Large 75 cm,4799,6499,26,4.2,2975,https://www.amazon.in/dp/P1059
+P1060,Nasher Miles,Nasher Miles Metro Cabin Soft luggage with TSA Lock and 8 Wheels,Soft luggage,Cabin 55 cm,3099,4499,31,4.2,2558,https://www.amazon.in/dp/P1060
